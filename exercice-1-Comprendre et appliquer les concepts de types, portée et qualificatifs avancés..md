@@ -24,18 +24,6 @@ Ce découpage en modules est intentionnel pour vous permettre de manipuler les c
 *   Maîtrise de la compilation de programmes C (GCC ou équivalent).
 *   Compréhension de la séparation en fichiers `.h` et `.c`.
 
-**Consignes Générales :**
-
-L'utilisation d'outils d'IA générative (ChatGPT, Copilot, etc.) est non seulement autorisée, mais encouragée. Votre objectif n'est pas de *produire* du code sans réfléchir, mais de *comprendre* ce que vous produisez et de *savoir l'expliquer*.
-
-Utilisez l'IA comme un assistant intelligent :
-*   Pour générer des ébauches de fonctions ou de structures.
-*   Pour explorer des syntaxes spécifiques (`volatile`, pointeurs de fonctions).
-*   Pour débugger des erreurs de compilation ou de logique.
-*   Pour vous aider à structurer votre pensée ou à trouver des exemples.
-
-Soyez prêts à justifier vos choix de conception et à expliquer le rôle de chaque concept avancé utilisé. Le code doit être clair, commenté et respecter les bonnes pratiques.
-
 ---
 
 ### **Exercices**
