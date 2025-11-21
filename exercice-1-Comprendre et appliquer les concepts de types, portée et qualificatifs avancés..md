@@ -113,10 +113,4 @@ N'oubliez pas de compiler tous vos fichiers `.c` ensemble :
     *   Votre compréhension de l'intérêt de `volatile` dans un contexte réel (par exemple, interaction avec du matériel).
     *   Comment l'IA vous a aidé dans ce TP.
 
-**Conseils :**
-
-*   Commencez petit, testez chaque fonction au fur et à mesure.
-*   N'hésitez pas à demander à votre IA des exemples de code pour chaque concept si vous bloquez.
-*   La gestion des erreurs est simplifiée ici, mais pensez à comment vous la géreriez dans un projet réel.
-
 Amusez-vous, expérimentez, et n'hésitez pas à poser des questions si vous rencontrez des difficultés !
