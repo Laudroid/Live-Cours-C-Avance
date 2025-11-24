@@ -6,9 +6,7 @@
 - Appliquer les meilleures pratiques de programmation C, y compris les standards récents (C11, C17, C23).
 - Développer des compétences en débogage et optimisation de code C.
 - Comprendre et utiliser efficacement les structures de données dynamiques, la gestion de la mémoire, et la programmation système en C.
-## Séance 1 : Séance 1: Rappels et Approfondissements
-
-**Durée :** undefined
+## Séance 1 : Rappels et Approfondissements
 
 ### Objectifs pédagogiques
 
@@ -25,9 +23,7 @@
 
 - Évolution du langage, principales nouveautés (alignement, _Generic, threads C11).
 - Améliorations const C23 et nouvelles fonctions de bibliothèque.
-## Séance 2 : Séance 2: Gestion Avancée de la Mémoire
-
-**Durée :** undefined
+## Séance 2 : Gestion Avancée de la Mémoire
 
 ### Objectifs pédagogiques
 
@@ -42,9 +38,7 @@
 
 - Pointeurs de fonctions, pointeurs génériques (void*).
 - Tableaux de pointeurs, pointeurs et structures.
-## Séance 3 : Séance 3: Structures de Données Avancées
-
-**Durée :** undefined
+## Séance 3 : Structures de Données Avancées
 
 ### Objectifs pédagogiques
 
@@ -59,9 +53,7 @@
 
 - Arbres binaires de recherche, arbres équilibrés (concepts).
 - Représentations de graphes (listes d'adjacence, matrices).
-## Séance 4 : Séance 4: Manipulation de Fichiers et Entrées/Sorties Avancées
-
-**Durée :** undefined
+## Séance 4 : Manipulation de Fichiers et Entrées/Sorties Avancées
 
 ### Objectifs pédagogiques
 
@@ -76,9 +68,7 @@
 
 - Compréhension des tampons (buffers) et de leur impact.
 - Fonctions setbuf, fflush, fsync (concepts).
-## Séance 5 : Séance 5: Programmation Système et Multitâche
-
-**Durée :** undefined
+## Séance 5 : Programmation Système et Multitâche
 
 ### Objectifs pédagogiques
 
@@ -93,9 +83,7 @@
 
 - Création de threads avec pthread_create.
 - Synchronisation des threads (mutex, semaphore), problèmes courants (deadlock, race condition).
-## Séance 6 : Séance 6: Préprocesseur Avancé et Macros
-
-**Durée :** undefined
+## Séance 6 : Préprocesseur Avancé et Macros
 
 ### Objectifs pédagogiques
 
@@ -110,9 +98,7 @@
 
 - Utilisation de #if, #ifdef, #ifndef, #error, #pragma.
 - Introduction aux attributs C23 ([[maybe_unused]], [[fallthrough]]).
-## Séance 7 : Séance 7: Debugging, Profiling et Optimisation
-
-**Durée :** undefined
+## Séance 7 : Debugging, Profiling et Optimisation
 
 ### Objectifs pédagogiques
 
@@ -126,9 +112,7 @@
 
 - Introduction à gprof, valgrind (détection fuites mémoire).
 - Techniques d'optimisation (boucles, fonctions inlines).
-## Séance 8 : Séance 8: Best Practices, Design Patterns et Sécurité
-
-**Durée :** undefined
+## Séance 8 : Best Practices, Design Patterns et Sécurité
 
 ### Objectifs pédagogiques
 
